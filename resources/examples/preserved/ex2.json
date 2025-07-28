@@ -1,0 +1,10 @@
+{
+  "Proveedores": [
+    {
+      "CIF": "837691Y",
+      "nombre": "Daniel",
+      "domicilio": "Un Sitio",
+      "telefono":  661765411
+    }
+  ]
+}

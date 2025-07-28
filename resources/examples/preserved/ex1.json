@@ -1,0 +1,12 @@
+{
+  "Clientes": [
+    {
+      "DNI":  "05730446L",
+      "nombre": "Alejandro",
+      "apellidos": "Rodriguez Giner",
+      "correo": "alrodr27",
+      "telefono": 663972552,
+      "domicilio": "Un sitio"
+    }
+  ]
+}

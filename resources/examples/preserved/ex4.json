@@ -1,0 +1,12 @@
+{
+  "Pedidos": [
+    {
+      "codPed": "001A",
+      "DNICliente": "05730446L",
+      "fecha": "17/04/2023",
+      "importe": 59.99,
+      "estado": true,
+      "codPr": "001G"
+    }
+  ]
+}

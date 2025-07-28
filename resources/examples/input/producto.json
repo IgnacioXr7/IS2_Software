@@ -1,0 +1,21 @@
+{
+"Productos": [
+{
+"codPr": "022V",
+"nombre": "Violin",
+"marca": "Una marca",
+"modelo": "Un modelo",
+"precio": 49.99,
+"unidades": 567
+}
+,
+{
+"codPr": "ewee",
+"nombre": "001G",
+"marca": "www",
+"modelo": "w",
+"precio": 2.0,
+"unidades": 0
+}
+]
+}

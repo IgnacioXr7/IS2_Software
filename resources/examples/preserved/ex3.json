@@ -1,0 +1,20 @@
+{
+  "Productos": [
+    {
+      "codPr": "001G",
+      "nombre": "Guitarra",
+      "marca": "Una marca",
+      "modelo": "Un modelo",
+      "precio": 59.99,
+      "unidades": 99
+    },
+    {
+      "codPr": "022V",
+      "nombre": "Violin",
+      "marca": "Una marca",
+      "modelo": "Un modelo",
+      "precio": 49.99,
+      "unidades": 1
+    }
+  ]
+}

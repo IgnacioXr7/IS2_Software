@@ -1,0 +1,31 @@
+{
+"Proveedores": [
+{
+"CIF": "837691Y",
+"nombre": "Daniel",
+"domicilio": "Un Sitio",
+"telefono": 661765411,
+}
+,
+{
+"CIF": "O22222222",
+"nombre": "122",
+"domicilio": "22",
+"telefono": 222222222,
+}
+,
+{
+"CIF": "O55555555",
+"nombre": "Visel",
+"domicilio": "silo",
+"telefono": 333333333,
+}
+,
+{
+"CIF": "O55555556",
+"nombre": "3wq",
+"domicilio": "w",
+"telefono": 111111111,
+}
+]
+}

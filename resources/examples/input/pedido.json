@@ -1,0 +1,12 @@
+{
+"Pedidos": [
+{
+"codPed": "4433",
+"DNICliente": "11222222f",
+"fecha": "02/78/78",
+"importe": 4.0,
+"estado": true,
+"codPr": "022V"
+}
+]
+}
